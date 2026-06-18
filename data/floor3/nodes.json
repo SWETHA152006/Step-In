@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "x": 895,
+    "y": 771,
+    "label": "Entrance"
+  },
+  {
+    "id": 1,
+    "x": 525,
+    "y": 500,
+    "label": "Bedroom 1"
+  },
+  {
+    "id": 2,
+    "x": 697,
+    "y": 650,
+    "label": "Utility"
+  },
+  {
+    "id": 3,
+    "x": 1000,
+    "y": 600,
+    "label": "Living Area"
+  },
+  {
+    "id": 4,
+    "x": 697,
+    "y": 380,
+    "label": "Bedroom 2"
+  },
+  {
+    "id": 5,
+    "x": 450,
+    "y": 200,
+    "label": "Bathroom 2 (Bedroom2)"
+  },
+  {
+    "id": 6,
+    "x": 380,
+    "y": 530,
+    "label": "Bathroom 1 (Bedroom1)"
+  },
+  {
+    "id": 7,
+    "x": 900,
+    "y": 350,
+    "label": "Kitchen"
+  },
+  {
+    "id": 8,
+    "x": 1100,
+    "y": 400,
+    "label": "Dining"
+  },
+  {
+    "id": 9,
+    "x": 895,
+    "y": 771,
+    "label": "Door-Entrance"
+  },
+  {
+    "id": 10,
+    "x": 880,
+    "y": 450,
+    "label": "Door-Kitchen"
+  },
+  {
+    "id": 11,
+    "x": 697,
+    "y": 450,
+    "label": "Door-Bedroom2"
+  },
+  {
+    "id": 12,
+    "x": 697,
+    "y": 650,
+    "label": "Door-Utility"
+  },
+  {
+    "id": 13,
+    "x": 550,
+    "y": 502,
+    "label": "Door-Bedroom1"
+  },
+  {
+    "id": 14,
+    "x": 405,
+    "y": 450,
+    "label": "Door-Bathroom1"
+  },
+  {
+    "id": 15,
+    "x": 450,
+    "y": 260,
+    "label": "Door-Bathroom2"
+  },
+  {
+    "id": 16,
+    "x": 697,
+    "y": 502,
+    "label": "Hallway-Center"
+  },
+  {
+    "id": 17,
+    "x": 895,
+    "y": 650,
+    "label": "Hallway-East"
+  },
+  {
+    "id": 18,
+    "x": 550,
+    "y": 450,
+    "label": "Hallway-West"
+  },
+  {
+    "id": 19,
+    "x": 850,
+    "y": 450,
+    "label": "Staircase"
+  }
+]
